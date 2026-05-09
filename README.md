@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ⚡ VoltXChange: Smart Home Energy Trading with DRL
 
 🌍 **Live Application:** [https://voltxchange-ag37.onrender.com](https://voltxchange-ag37.onrender.com)
@@ -147,3 +148,7 @@ booktitle = {Proceedings of the 10th ACM International Conference on Systems for
 
 ## 📄 License
 Copyright 2023 Matic Pokorn. The base algorithms in this project are licensed under the MIT license. Modified and expanded for web deployment and visual analytics.
+=======
+# voltXchange-system
+Project on home autonomus energy trading
+>>>>>>> db65e726b1a8f2084bb240295bc74f299d3fb893
